@@ -19,6 +19,7 @@ class SessionBootstrapper extends Bootstrapper implements ILazyBootstrapper
             FlashService::class,
         ];
     }
+
     /**
      * @param IContainer $container
      */
